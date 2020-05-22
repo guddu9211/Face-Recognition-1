@@ -1,4 +1,4 @@
-#Face Recognition
+# Face Recognition
 This application will provide the percentage of similarity between 2 given faces
 
 Points to be noted:
